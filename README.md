@@ -153,13 +153,6 @@ Update paths based on your directory structure.
 
 ## Screenshots
 
-Place the following images in `assets/screenshots/` and use these names:
-
-- `intro.jpeg` – Game intro/menu
-- `gameplay.jpeg` – In-maze gameplay view
-- `spell.jpeg` – When spell is used
-- `compass.jpeg` – When compass is used
-- `sword.jpeg` – When sword is equipped
 
 | Game Intro | Gameplay |
 |---|---|
@@ -169,7 +162,6 @@ Place the following images in `assets/screenshots/` and use these names:
 |---|---|---|
 | ![Spell Used](assets/screenshots/spell.jpeg) | ![Compass Used](assets/screenshots/compass.jpeg) | ![Sword Equipped](assets/screenshots/sword.jpeg) |
 
-Additional screenshots:
 
 - `mana.jpeg` – Mana pickup/indicator
 - `robot.jpeg` – Robot enemy in maze
@@ -180,6 +172,8 @@ Additional screenshots:
 | Mana | Robot |
 |---|---|
 | ![Mana](assets/screenshots/mana.jpeg) | ![Robot](assets/screenshots/robot.jpeg) |
+
+###Levels Of Difficulty
 
 | Easy | Medium | Hard |
 |---|---|---|
