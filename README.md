@@ -45,8 +45,7 @@ This project was created to visualize how various AI techniques behave in dynami
 |---|---|---|
 | ![Sword](resources/sword.png) | ![Compass](resources/compass_new.png) | ![Spell](resources/spell.png) |
 
-To add remaining images, place files in `assets/screenshots/` named:
-`dino.jpeg` for Dino and `zombie.jpeg` for Zombie.
+
 
 ### 2. Fuzzy Logic (Combat System)
 
