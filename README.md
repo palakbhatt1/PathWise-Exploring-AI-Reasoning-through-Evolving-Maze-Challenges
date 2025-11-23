@@ -141,35 +141,35 @@ Update paths based on your directory structure.
 
 Place the following images in `assets/screenshots/` and use these names:
 
-- `intro.png` – Game intro/menu
-- `gameplay.png` – In-maze gameplay view
-- `spell.png` – When spell is used
-- `compass.png` – When compass is used
-- `sword.png` – When sword is equipped
+- `intro.jpeg` – Game intro/menu
+- `gameplay.jpeg` – In-maze gameplay view
+- `spell.jpeg` – When spell is used
+- `compass.jpeg` – When compass is used
+- `sword.jpeg` – When sword is equipped
 
 | Game Intro | Gameplay |
 |---|---|
-| ![Game Intro](assets/screenshots/intro.png) | ![Gameplay](assets/screenshots/gameplay.png) |
+| ![Game Intro](assets/screenshots/intro.jpeg) | ![Gameplay](assets/screenshots/gameplay.jpeg) |
 
 | Spell Used | Compass Used | Sword Equipped |
 |---|---|---|
-| ![Spell Used](assets/screenshots/spell.png) | ![Compass Used](assets/screenshots/compass.png) | ![Sword Equipped](assets/screenshots/sword.png) |
+| ![Spell Used](assets/screenshots/spell.jpeg) | ![Compass Used](assets/screenshots/compass.jpeg) | ![Sword Equipped](assets/screenshots/sword.jpeg) |
 
 Additional screenshots:
 
-- `mana.png` – Mana pickup/indicator
-- `robot.png` – Robot enemy in maze
-- `level-easy.png` – Easy maze overview
-- `level-medium.png` – Medium maze overview
-- `level-hard.png` – Hard maze overview
+- `mana.jpeg` – Mana pickup/indicator
+- `robot.jpeg` – Robot enemy in maze
+- `level-easy.jpeg` – Easy maze overview
+- `level-medium.jpeg` – Medium maze overview
+- `level-hard.jpeg` – Hard maze overview
 
 | Mana | Robot |
 |---|---|
-| ![Mana](assets/screenshots/mana.png) | ![Robot](assets/screenshots/robot.png) |
+| ![Mana](assets/screenshots/mana.jpeg) | ![Robot](assets/screenshots/robot.jpeg) |
 
 | Easy | Medium | Hard |
 |---|---|---|
-| ![Easy](assets/screenshots/level-easy.png) | ![Medium](assets/screenshots/level-medium.png) | ![Hard](assets/screenshots/level-hard.png) |
+| ![Easy](assets/screenshots/level-easy.jpeg) | ![Medium](assets/screenshots/level-medium.jpeg) | ![Hard](assets/screenshots/level-hard.jpeg) |
 
 ## Contributors
 
