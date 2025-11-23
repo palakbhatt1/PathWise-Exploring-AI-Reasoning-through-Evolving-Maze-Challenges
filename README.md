@@ -157,27 +157,28 @@ Update paths based on your directory structure.
 | Game Intro | Gameplay |
 |---|---|
 | ![Game Intro](assets/screenshots/intro.jpeg) | ![Gameplay](assets/screenshots/gameplay.jpeg) |
+| *Game intro/menu* | *In-maze gameplay view* |
+
 
 | Spell Used | Compass Used | Sword Equipped |
 |---|---|---|
 | ![Spell Used](assets/screenshots/spell.jpeg) | ![Compass Used](assets/screenshots/compass.jpeg) | ![Sword Equipped](assets/screenshots/sword.jpeg) |
+| *When spell is used* | *When compass is used* | *When sword is equipped* |
 
 
-- `mana.jpeg` – Mana pickup/indicator
-- `robot.jpeg` – Robot enemy in maze
-- `level-easy.jpeg` – Easy maze overview
-- `level-medium.jpeg` – Medium maze overview
-- `level-hard.jpeg` – Hard maze overview
 
 | Mana | Robot |
 |---|---|
 | ![Mana](assets/screenshots/mana.jpeg) | ![Robot](assets/screenshots/robot.jpeg) |
+| *Mana pickup/indicator* | *Robot enemy in maze* |
 
 ### Levels Of Difficulty
 
 | Easy | Medium | Hard |
 |---|---|---|
 | ![Easy](assets/screenshots/level-easy.jpeg) | ![Medium](assets/screenshots/level-medium.jpeg) | ![Hard](assets/screenshots/level-hard.jpeg) |
+| *Easy maze overview* | *Medium maze overview* | *Hard maze overview* |
+
 
 ## Contributors
 
