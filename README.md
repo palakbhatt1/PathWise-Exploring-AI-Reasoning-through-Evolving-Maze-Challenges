@@ -173,7 +173,7 @@ Update paths based on your directory structure.
 |---|---|
 | ![Mana](assets/screenshots/mana.jpeg) | ![Robot](assets/screenshots/robot.jpeg) |
 
-###Levels Of Difficulty
+### Levels Of Difficulty
 
 | Easy | Medium | Hard |
 |---|---|---|
