@@ -50,12 +50,12 @@ This produces realistic, uncertain combat outcomes.
 
 ## Project Features
 
-- ✔ Dynamic maze that updates every 20 seconds
-- ✔ Multiple enemy types with different search behaviors
-- ✔ Fuzzy-logic-based combat system
-- ✔ A* compass for real-time guidance
-- ✔ Threaded enemy movement for smooth gameplay
-- ✔ Supports multiple maze sizes (35×35, 65×65, 90×90)
+-  Dynamic maze that updates every 20 seconds
+-  Multiple enemy types with different search behaviors
+-  Fuzzy-logic-based combat system
+-  A* compass for real-time guidance
+-  Threaded enemy movement for smooth gameplay
+-  Supports multiple maze sizes (35×35, 65×65, 90×90)
 
 ## System Architecture
 
@@ -139,9 +139,9 @@ Update paths based on your directory structure.
 
 ## Contributors
 
+- Palak Bhatt
 - Shivin Khandelwal
 - Anish Choudhary
-- Palak Bhatt
 - Mohammad Hafiz Shah
 
 
