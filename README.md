@@ -137,6 +137,40 @@ Update paths based on your directory structure.
 - Multi-player mode
 - Additional fuzzy parameters (health, distance, weapon strength)
 
+## Screenshots
+
+Place the following images in `assets/screenshots/` and use these names:
+
+- `intro.png` – Game intro/menu
+- `gameplay.png` – In-maze gameplay view
+- `spell.png` – When spell is used
+- `compass.png` – When compass is used
+- `sword.png` – When sword is equipped
+
+| Game Intro | Gameplay |
+|---|---|
+| ![Game Intro](assets/screenshots/intro.png) | ![Gameplay](assets/screenshots/gameplay.png) |
+
+| Spell Used | Compass Used | Sword Equipped |
+|---|---|---|
+| ![Spell Used](assets/screenshots/spell.png) | ![Compass Used](assets/screenshots/compass.png) | ![Sword Equipped](assets/screenshots/sword.png) |
+
+Additional screenshots:
+
+- `mana.png` – Mana pickup/indicator
+- `robot.png` – Robot enemy in maze
+- `level-easy.png` – Easy maze overview
+- `level-medium.png` – Medium maze overview
+- `level-hard.png` – Hard maze overview
+
+| Mana | Robot |
+|---|---|
+| ![Mana](assets/screenshots/mana.png) | ![Robot](assets/screenshots/robot.png) |
+
+| Easy | Medium | Hard |
+|---|---|---|
+| ![Easy](assets/screenshots/level-easy.png) | ![Medium](assets/screenshots/level-medium.png) | ![Hard](assets/screenshots/level-hard.png) |
+
 ## Contributors
 
 - Palak Bhatt
