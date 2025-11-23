@@ -33,6 +33,21 @@ This project was created to visualize how various AI techniques behave in dynami
 | Compass          | A* Search            | Shows the shortest path to the goal |
 | Spell            | Depth-Limited DFS    | Clears enemies within limited range |
 
+#### Entity Images
+
+| Robot | Dino | Zombie | Main Character |
+|---|---|---|---|
+| ![Robot](robotfree/png/Idle%20%282%29.png) | ![Dino](freedinosprite/png/Idle%20%283%29.png) | ![Zombie](zombiefiles/png/male/Idle%20%281%29.png) | ![Main Character](ninjagirlnew/png/Idle__002.png) |
+
+#### Item Icons
+
+| Sword | Compass | Spell |
+|---|---|---|
+| ![Sword](resources/sword.png) | ![Compass](resources/compass_new.png) | ![Spell](resources/spell.png) |
+
+To add remaining images, place files in `assets/screenshots/` named:
+`dino.jpeg` for Dino and `zombie.jpeg` for Zombie.
+
 ### 2. Fuzzy Logic (Combat System)
 
 Used to compute win probability based on:
