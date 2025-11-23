@@ -144,7 +144,6 @@ Update paths based on your directory structure.
 - Palak Bhatt
 - Mohammad Hafiz Shah
 
-Mentor: Mr. Pranshu Tiwari, BML Munjal University
 
 ## License
 
