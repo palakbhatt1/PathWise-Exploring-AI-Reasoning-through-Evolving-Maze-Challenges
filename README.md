@@ -155,7 +155,7 @@ Update paths based on your directory structure.
 
 
 | Game Intro | Gameplay |
-|---|---|
+|:---:|:---:|
 | ![Game Intro](assets/screenshots/intro.jpeg) | ![Gameplay](assets/screenshots/gameplay.jpeg) |
 | Game intro/menu | In-maze gameplay view |
 
